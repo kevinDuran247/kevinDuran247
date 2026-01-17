@@ -1,4 +1,4 @@
-<h2 align="left">Hola 👋! Mi nombre ¡Hola! Mi nombre es Kevin Durán. Soy técnico en ingeniería en desarrollo de software y técnico en computación administrativa. Con 2 años de experiencia en desarrollo web y soporte técnico. Aficionado de la inteligencia artificial.</h2>
+<h2 align="left">Hola 👋! Mi nombre es Kevin Durán. Soy Técnico En Ingeniería En Desarrollo De Software y estudiante Técnico En Idioma Ingles ambos univertarios. Con 3 años de experiencia en desarrollo web y soporte técnico. Aficionado de la inteligencia artificial.</h2>
 
 ###
 
